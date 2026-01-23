@@ -1,4 +1,4 @@
-### Hey, I'm Jace
+Hello. I'm Jace.
 
 I'm a passionate software engineer specializing in full-lifecycle bug management: from creation to treatment.
 
